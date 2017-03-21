@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+.training	{
+	font-size:16;
+	font-style:bold;
+	background-color: white;
+	
+}
+.history	{
+	font-size:16;
+	font-style:bold;
+}
+.trainers	{
+	font-size:16;
+	font-style:bold;
+}
+.links {
+	font-size:16;
+	font-style:bold;
+}
+.zonas	{
+	font-size:13;
+	font-style:italic;
+	margin-left:20px;
+	margin-right:20px;
+}
+.Gray {
+	font-size:13;
+	font-style:italic;
+	margin-left:20px;
+	margin-right:20px;
+}
+.Michowski {
+	font-size:13;
+	font-style:italic;
+	margin-left:20px;
+	margin-right:20px;
+}
+h1 {
+	text-align:center;
+}
+p {
+	margin-left:40px;
+	margin-right:70px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h2 	{
+	margin-left:40px;
+	margin-right:70px;
+}
+
+body {
+	background-color: skyblue;
+}
+		
+header {
+	font-size:16;
+	font-style:bold;
+	background-color: white;
+}
